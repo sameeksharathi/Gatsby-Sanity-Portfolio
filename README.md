@@ -1,3 +1,3 @@
-# Gatsby Sanity Portfolio
+# Gatsby-Sanity Portfolio
 
 
