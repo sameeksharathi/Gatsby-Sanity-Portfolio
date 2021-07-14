@@ -1,0 +1,10 @@
+@import url("https://unpkg.com/@tailwindcss/typography@0.2.x/dist/typography.min.css");
+@import url("https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css");
+
+
+.cursive{
+    font-family: "Amatic SC", cursive;
+    font-weight: 700;
+  }
